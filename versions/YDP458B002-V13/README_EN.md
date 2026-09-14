@@ -31,7 +31,7 @@
 
 OSPTEK **4.58″ 424×1280 TFT** is a **MIPI** color bar display module with display and touch driven by **JD9261** (capacitive touch over I2C). Suited to bar HMIs, side information strips, and narrow interactive panels.
 
-Spec ID (repository name): `4.58-tft-424x1280-mipi-jd9261`
+Spec ID (repository name): `tft-4.58-424x1280-mipi-jd9261`
 
 Current module version: **YDP458B002-V13**. Electrical and mechanical details follow [`docs/YDP458B002-V13_外形图.pdf`](./docs/YDP458B002-V13_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) and the driver IC datasheet.
 
@@ -57,7 +57,7 @@ Current module version: **YDP458B002-V13**. Electrical and mechanical details fo
 ## Repository layout
 
 ```text
-4.58-tft-424x1280-mipi-jd9261/                                # repo root (nav: ../../README_EN.md)
+tft-4.58-424x1280-mipi-jd9261/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP458B002-V13/                                # full materials for this part number
         ├── README.md
