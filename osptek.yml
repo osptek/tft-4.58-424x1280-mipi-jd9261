@@ -5,7 +5,7 @@ size: "4.58"
 panel: tft
 resolution: 424x1280
 interface: [mipi]
-shape: bar
+shape: rect
 
 versions:
   - id: YDP458B002-V13
