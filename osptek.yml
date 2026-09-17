@@ -1,0 +1,14 @@
+id: tft-4.58-424x1280-mipi-jd9261
+category: displays
+
+size: "4.58"
+panel: tft
+resolution: 424x1280
+interface: [mipi]
+shape: bar
+
+versions:
+  - id: YDP458B002-V13
+    driver: JD9261T
+    touch: JD9261
+    note: none
